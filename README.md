@@ -8,6 +8,9 @@ Technology stack
 * Javascript [ USING API ] 
 * Figma (For design)
 
+About
+======
+This application can show us history value of exchanges rates from EUR to PLN [ soon will be avaliable for all currency ]
 
 Installing
 ======
