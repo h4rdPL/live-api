@@ -25,7 +25,7 @@ Installing
 
 Or
 ```
-Open live link: [ soon ]
+Open live link: [click here!](https://polandpanda.github.io/live-api/)
 ```
 
 Design
