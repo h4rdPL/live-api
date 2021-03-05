@@ -25,7 +25,7 @@ Installing
 
 Or
 ```
-Open live link: ttps://polandpanda.github.io/live-api/
+Open live link: https://polandpanda.github.io/live-api/
 ```
 
 Design
