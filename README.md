@@ -5,7 +5,7 @@ Technology stack
 ======
 * HTML
 * SCSS
-* Javascript [ USING API ] 
+* Javascript [ USING API ] → https://api.exchangerate.host
 * Figma (For design)
 
 About
