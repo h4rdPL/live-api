@@ -3,6 +3,7 @@
 
 Technology stack
 ======
+
 * HTML
 * SCSS
 * Javascript [ USING API ] → https://exchangerate.host
@@ -10,6 +11,7 @@ Technology stack
 
 About
 ======
+
 This application can show us history value of exchanges rates from EUR to PLN [ soon will be avaliable for all currency ]
 
 Installing
