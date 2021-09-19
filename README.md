@@ -18,7 +18,7 @@ Installing
 ======
 
 ```
-1. Download or clone repo → gh repo clone PolandPanda/live-api
+1. Download or clone repo → gh repo clone h4rdpl/live-api
 ```
 
 ```
@@ -27,7 +27,7 @@ Installing
 
 Or
 ```
-Open live link: https://polandpanda.github.io/live-api/
+Open live link: https://h4rdpl.github.io/live-api/
 ```
 
 Design
