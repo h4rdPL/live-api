@@ -27,7 +27,7 @@ Installing
 
 Or
 ```
-Open live link: https://h4rdpl.github.io/live-api/
+Copy&Open live link: https://h4rdpl.github.io/live-api/
 ```
 
 Design
